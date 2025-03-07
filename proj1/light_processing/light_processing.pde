@@ -11,7 +11,6 @@ void setup() {
   // ✅ Manually set the correct port for macOS or Windows
   String portName = "/dev/cu.usbmodem2101"; // Adjust this based on Serial.list()
   myPort = new Serial(this, portName, 9600);
-  
   myPort.clear();  // Clear serial buffer
   myPort.bufferUntil('\n');  // Wait for a full line before reading
 }
