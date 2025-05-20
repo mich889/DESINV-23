@@ -62,5 +62,6 @@ if __name__ == '__main__':
         with open(VOTES_FILE, 'w') as f:
             f.write("timestamp,x,y\n")
     # Use environment variable for port if available (for production)
-    port = int(os.environ.get('PORT', 5000))
+    port = int(os.environ.get('PORT', 5001
+                            ))
     app.run(host='0.0.0.0', port=port) 
