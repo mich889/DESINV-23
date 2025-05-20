@@ -1,6 +1,5 @@
-# Facial Tattoo Perception 
 
-# DESINV 23 Final Project
+# DESINV 23 Final Project: Facial Tattoo Perception 
 By Michelle Chen
 May 2025
 
