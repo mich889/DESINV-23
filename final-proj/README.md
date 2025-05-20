@@ -1,5 +1,10 @@
 # Facial Tattoo Perception 
 
+# DESINV 23 Final Project
+By Michelle Chen
+May 2025
+
+
 This project is a tool designed to study public perception of facial tattoos through interactive 3D model comparison. By presenting participants with identical 3D face models - one with and one without facial tattoos - we collect data on how tattoos affect people's perceptions and judgments.
 
 ## Project Purpose
